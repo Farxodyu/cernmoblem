@@ -1,0 +1,43 @@
+
+.one{
+    background-image: url("./img/slider/1.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.three{
+    background-image: url("./img/slider/3.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.devyat{
+     background-image: url("./img/slider/9.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.des{
+      background-image: url("./img/slider/10.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.eleven{
+      background-image: url("./img/slider/11.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.twelwe{
+      background-image: url("./img/slider/12.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.threeten{
+      background-image: url("./img/slider/13.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
